@@ -16,6 +16,10 @@ In order to run the server application locally, you may or may not change the da
 
 - `.env`
 
+You need to put restaurants.parquet and user.parquet into data folder for initialize the database in first time.
+
+- `data`
+
 To run the application in docker, run the following command:
 
 ```bash
